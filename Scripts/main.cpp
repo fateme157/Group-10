@@ -3,6 +3,11 @@
 //
 #include<iostream>
 using namespace std;
+
+int  fun();
+
 int main (){
+    cout << "hello world!";
+    return 0;
 
 }
