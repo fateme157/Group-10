@@ -1,5 +1,7 @@
-#include<iostream>
 using namespace std;
 database{
+public:
+    void insertRecord{
 
+    }
 };
